@@ -1,5 +1,5 @@
 
-# Use : chopper sample-length filename.mp3
+# Use : chopper sample-length filename.wav
 
 import sys
 from pydub import AudioSegment

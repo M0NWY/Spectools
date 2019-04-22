@@ -1,4 +1,5 @@
-
+# Code adapted from https://github.com/sikora507/elgen/blob/master/src/audio%20analysis.ipynb into a command line tool.
+# Thank you Tomasz. No licence present in original work, but the repo was public. Use at your own risk.
 
 # Use: spectrum.py topng/towav input.wav/input.png rate
 # rate only needed when converting back to wav.

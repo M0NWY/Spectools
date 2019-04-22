@@ -1,6 +1,6 @@
 
 # Use : chopper sample-length filename.wav
-
+# sample length is in miliseconds
 import sys
 from pydub import AudioSegment
 
